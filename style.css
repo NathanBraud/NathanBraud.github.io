@@ -1,0 +1,41 @@
+h1 {
+	color: blue;
+	font-style: italic;
+	border-radius: 10px;
+}
+
+h2{
+	font-family: 'Charmonman', cursive;
+}
+
+body{
+	text-align: center;
+	padding: 50px 200px;
+	animation: test 3s ;
+}
+
+p.premier_paragraphe{
+	background-color: white;
+	border: 5px solid red;
+}
+
+img{
+	align-content: center;
+	width: 70%;
+	height: 70%;
+	padding: 10px;
+
+}
+
+a.reseaux:hover {
+	color: #91C0C4;
+}
+
+a.reseaux {
+	text-decoration: none;
+}
+
+ul {
+	font-size: 
+}
+@keyframe
